@@ -41,4 +41,4 @@ Dataset Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml
 
 **Dilkhush Kumar**
 B.Tech in Computer Science and Engineering
-📧 [Add your email or LinkedIn here]
+📧 (https://www.linkedin.com/in/dilkhush-kumar-b58664273/)
